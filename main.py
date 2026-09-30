@@ -3,12 +3,12 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Your email credentials
-sender_email = "vbhvkishore@gmail.com"
-password = "nsyf mfoz dsqf aigq"
+sender_email = "@gmail.com"
+password = "password"
 
 # Email list
 emails = [
-"lk6758322@gmail.com",
+"@gmail.com",
 ]
 
 subject = "Application for Software / Data Analyst Internship"
@@ -28,13 +28,13 @@ Thank you for your time and consideration.
 
 Sincerely,
 Vaibhav Kishore
-Phone: +91 8076183568
-Email: vbhvkishore@gmail.com
+Phone: +91 ********
+Email: @gmail.com
 GitHub: https://github.com/VaibhavKisHore
 
 LinkedIn: https://www.linkedin.com/in/vaibhav-kishore-23a024327?utm_source=share_via&utm_content=profile&utm_medium=member_androi
 
-Resume link: d:\padhai\Vaibhav_Kishore_Resume_Clickable_Links.pdf
+Resume link: drivelink
 """
 
 server = smtplib.SMTP("smtp.gmail.com", 587)
